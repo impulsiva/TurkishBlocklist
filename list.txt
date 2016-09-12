@@ -27,4 +27,5 @@ dizilab.com##[data-tur="index_ust"]
 ###reklam*
 ##.sagReklamlar
 ##.fullbodyad
-##[href="*ad.donanimhaber.com*"]
+##[href="http://ad.donanimhaber.com/qr.aspx?"]
+##[href="https://ad.donanimhaber.com/qr.aspx?"]
