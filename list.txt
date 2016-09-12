@@ -30,3 +30,10 @@ dizilab.com##[data-tur="index_ust"]
 ##.sagReklamlar
 ##.fullbodyad
 ##A[href^="http://ad.donanimhaber.com/"]
+!
+! ------------ forum.donanimhaber.com için filtreler -------------- !
+!
+##.konulisteTextReklam
+##TD[width="13%"]
+##.adsbygoogle
+##DIV[id^="gpt-ad"]
