@@ -23,9 +23,10 @@ dizilab.com##[data-tur="index_ust"]
 ! ---------- donanimhaber.com için filtreler ---------- !
 !
 /qr.aspx?
-##.reklam*
-###reklam*
+##.reklam300
+##.advertisement
+##.interactivereklam
+##.reklamlar
 ##.sagReklamlar
 ##.fullbodyad
-##[href="http://ad.donanimhaber.com/qr.aspx?"]
-##[href="https://ad.donanimhaber.com/qr.aspx?"]
+##A[href^="http://ad.donanimhaber.com/"]
