@@ -11,4 +11,4 @@
 dizilab.com###uknewad
 dizilab.com##.banner
 dizilab.com##.advert
-dizilab.com##.sticky
+dizilab.com###sticky
