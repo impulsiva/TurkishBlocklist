@@ -3,6 +3,7 @@ A filter for blocking Turkish Web ads.
 
 Türkçe İnternet reklamlarını engelleyen filtreleri içeren proje.
 
-# Supported Websites / Desteklenen İnternet Siteleri
+######Lütfen eklenmesini istediğiniz filtreleri [Issues](https://github.com/impulsiva/TurkishBlocklist/issues) adresinden iletin.
 
-- ~none~
+# Desteklenen İnternet Siteleri
+- yok
