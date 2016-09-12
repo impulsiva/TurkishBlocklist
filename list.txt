@@ -22,7 +22,7 @@ dizilab.com##[data-tur="index_ust"]
 !
 ! ---------- donanimhaber.com için filtreler ---------- !
 !
-ad.donanimhaber.com
+/qr.aspx?
 ##.reklam*
 ###reklam*
 ##.sagReklamlar
