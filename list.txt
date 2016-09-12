@@ -9,6 +9,7 @@
 ! ---------- Çeşitli filtreler ---------- !
 !
 record.commissionlounge.com
+!
 ! ---------- dizilab.com için filtreler ---------- !
 !
 dizilab.com###uknewad
@@ -18,3 +19,11 @@ dizilab.com###sticky
 dizilab.com###statik_div
 dizilab.com/v/page_skin.jpg?v=
 dizilab.com##[data-tur="index_ust"]
+!
+! ---------- donanimhaber.com için filtreler ---------- !
+!
+ad.donanimhaber.com
+##.reklam*
+###reklam*
+##.sagReklamlar
+##.fullbodyad
