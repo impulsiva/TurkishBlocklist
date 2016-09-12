@@ -6,9 +6,15 @@
 ! License: Apache 2.0 License
 ! Homepage: https://github.com/impulsiva/TurkishBlocklist/
 !
+! ---------- Çeşitli filtreler ---------- !
+!
+record.commissionlounge.com
 ! ---------- dizilab.com için filtreler ---------- !
 !
 dizilab.com###uknewad
 dizilab.com##.banner
 dizilab.com##.advert
 dizilab.com###sticky
+dizilab.com##.statik_div
+dizilab.com/v/page_skin.jpg?v=
+dizilab.com##[data-tur="index_ust"]
