@@ -40,3 +40,9 @@ dizilab.com##[data-tur="index_ust"]
 ##td[width="10"]
 ##TABLE[width="95%"]>TBODY>TR>TH[width="85%"]>TABLE[width="99%"]>TBODY>TR>TD[bgcolor="febf55"]>TABLE[width="100%"]>TBODY>TR>TD>TABLE[width="100%"]>TBODY>TR>TD[bgcolor="d0d0d0"]>TABLE[width="100%"]>TBODY>TR[bgcolor="#FFFFFF"]
 ##HTML>BODY>DIV[id="zip"]>CENTER>TABLE[width="95%"]>TBODY>TR>TD[align="right"]
+
+
+!
+! ------------ sozcu için filtreler -------------- !
+!
+@@||sozcu.com.tr/*/assets/js/ads.js
