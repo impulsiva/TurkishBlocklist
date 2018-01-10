@@ -20,6 +20,16 @@ dizilab.com###statik_div
 dizilab.com/v/page_skin.jpg?v=
 dizilab.com##[data-tur="index_ust"]
 !
+! ---------- dizilab.net için filtreler ---------- !
+!
+dizilab.net###uknewad
+dizilab.net##.banner
+dizilab.net##.advert
+dizilab.net###sticky
+dizilab.net###statik_div
+dizilab.net/v/page_skin.jpg?v=
+dizilab.net##[data-tur="index_ust"]
+!
 ! ---------- donanimhaber.com için filtreler ---------- !
 !
 /qr.aspx?
