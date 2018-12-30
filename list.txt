@@ -40,7 +40,7 @@ dizilab.net##[data-tur="index_ust"]
 ##.sagReklamlar
 ##.fullbodyad
 ##A[href^="http://ad.donanimhaber.com/"]
-##.sagtaraf
+donanimhaber.com##.sagtaraf
 !
 ! ------------ forum.donanimhaber.com için filtreler -------------- !
 !
