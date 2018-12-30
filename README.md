@@ -7,5 +7,9 @@ Türkçe İnternet reklamlarını engelleyen filtreleri içeren proje.
 
 https://github.com/impulsiva/TurkishBlocklist/wiki/Anasayfa
 
+Filtrelerinize eklemek için:
+
+https://raw.githubusercontent.com/impulsiva/TurkishBlocklist/master/list.txt
+
 ## Desteklenen İnternet Siteleri
 - dizilab.com
