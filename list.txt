@@ -6,9 +6,10 @@
 ! License: Apache 2.0 License
 ! Homepage: https://github.com/impulsiva/TurkishBlocklist/
 !
-! ---------- Çeşitli filtreler ---------- !
+! ---------- Çeşitli/global filtreler ---------- !
 !
 record.commissionlounge.com
+##div[class*="reklam"]
 !
 ! ---------- dizilab.com için filtreler ---------- !
 !
@@ -41,6 +42,7 @@ dizilab.net##[data-tur="index_ust"]
 ##.fullbodyad
 ##A[href^="http://ad.donanimhaber.com/"]
 donanimhaber.com##.sagtaraf
+##div[class="*reklam"]
 !
 ! ------------ forum.donanimhaber.com için filtreler -------------- !
 !
